@@ -16,6 +16,7 @@ import org.springframework.web.filter.CorsFilter;
 public class PicturesReaderApplication extends SpringBootServletInitializer{
 
 	public static void main(String[] args) {
+		//TESTE
 		SpringApplication.run(PicturesReaderApplication.class, args);
 	}
 
