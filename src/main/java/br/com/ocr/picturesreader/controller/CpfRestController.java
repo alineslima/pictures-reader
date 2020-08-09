@@ -19,7 +19,8 @@ public class CpfRestController {
 			return ocrReaderService.readFileFromUrl(path);
 		} catch (Exception e) {
 			e.printStackTrace();
-			return "Couldnt read 2";
+			return "Couldnt read 223";
+			
 		}
 	}
 
